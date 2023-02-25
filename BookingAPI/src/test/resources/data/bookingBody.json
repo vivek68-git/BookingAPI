@@ -1,0 +1,46 @@
+{
+	"createBooking1": {
+		"firstname": "Harshal",
+		"lastname": "Kukreja",
+		"totalprice": "2700",
+		"depositpaid": "true",
+		"bookingdates": {
+		"checkin":"2021-05-15",
+		"checkout":"2021-06-02"
+		},
+		"additionalneeds":"Evening Snacks"
+	},
+	"createBooking2": {
+		"firstname": "Michael",
+		"lastname": "Clarke",
+		"totalprice": "7500",
+		"depositpaid": "false",
+		"bookingdates": {
+		"checkin":"2020-11-10",
+		"checkout":"2020-11-20"
+		},
+		"additionalneeds":"Coffee"
+	},
+	"updateBooking1": {
+		"firstname": "Pat",
+		"lastname": "Cummins",
+		"totalprice": "7900",
+		"depositpaid": "true",
+		"bookingdates": {
+		"checkin":"2021-11-10",
+		"checkout":"2021-11-20"
+		},
+		"additionalneeds":"Morning Tea"
+	},
+	"updateBooking2": {
+		"firstname": "Graeme",
+		"lastname": "Smith",
+		"totalprice": "2700",
+		"depositpaid": "false",
+		"bookingdates": {
+		"checkin":"2021-09-10",
+		"checkout":"2021-10-20"
+		},
+		"additionalneeds":"Non-Veg Meals"
+	}
+}
